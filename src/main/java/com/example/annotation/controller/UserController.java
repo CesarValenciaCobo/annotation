@@ -23,7 +23,7 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 @RequestMapping("/user")
 public class UserController {
-
+//test
     @Autowired
     ServletContext servletContext;
 
